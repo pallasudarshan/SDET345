@@ -39,6 +39,16 @@ public class Demo {
 
 	}
 	
+	public static void mainVims_Automation(String[] args) {
+		int z;
+		int i = 10;
+		int j = 40;
+
+		z = i + j;
+		System.out.println(z);
+
+	}
+	
 	
 	
 	
