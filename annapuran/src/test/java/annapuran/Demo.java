@@ -5,7 +5,7 @@ public class Demo {
 
 	public static void mainSudarshan(String[] args) {
 		
-		String str="s";
+		String str="chnaged as s";
 		System.out.println(str);
 
 	}
