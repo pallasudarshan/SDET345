@@ -23,8 +23,6 @@ public class Test {
 		 {
 			 String text=wb.getText();
 			 System.out.println(text);
-			
-			
 		 }
-
+	}
 }
